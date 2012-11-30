@@ -17,6 +17,9 @@
 # Commands:
 #   Hubot Twitter Lurker: Listens to twitter - is non-interactive. For now. Muwahahahahahaha.
 #
+# Notes:
+#   To do: Handle disconnects (Attempt to reconnect X times)
+#
 # Author:
 #   fideloper
 
